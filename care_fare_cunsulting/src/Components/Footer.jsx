@@ -4,7 +4,10 @@ function Footer() {
   return (
     <>
       <div class="container my-5">
-        <footer class="text-center text-lg-start text-black footer-bg">
+        <footer
+          class="text-center text-lg-start text-black "
+          style={{ backgroundColor: "grey" }}
+        >
           <div class="container p-4 pb-0">
             <section class="">
               <div class="row">
